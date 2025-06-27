@@ -1,16 +1,15 @@
 ---
 layout: post
-title: Sonos Teardown
-description: Conducted detailed teardown analysis of Sonos Era speaker, documenting internal components, driver configuration, and PCB design. Created technical documentation with photos and assembly insights for engineering reference. 
+title: Bench Press Safety Mechanism Design Project
+description: Designed a bench press with a counterweight and lifting arms that would be activated when the user pressed a foot pedal. The Project included stress analysis for all the components, connections, and the power train. The analysis was done ensuring a factor of safety above two for all parts, with respect to yielding, buckling, and fatigue. Finally, the design was analyzed for potential final cost of the product based on materials and manufacturing costs.   
 skills: 
-  - drumel
-  - microprobing
-  - Electronics Teardown
-  - PCB analysis
-  - audio system design
+  - Solid Mechanics
+  - Mechanical Engineering Design 
+  - Cost engineering
+  - Materials Engineering
 
 main-image: /sonos.png
 ---
 
-# This is another demo
+
 
