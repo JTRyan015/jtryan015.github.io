@@ -13,7 +13,7 @@ title: Jack Ryan's Portfolio # This is what shows up in the tab of the browser
 
 # Hero Section
 name: Jack Ryan
-headline: lalalalala
+headline: Mechanical Engineering Student at Northeastern University
 description: >- # dont remove this line. this will ignore all new lines until the next section
   Write an awesome intro and discuss your highlights and qualification. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -31,16 +31,16 @@ resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/vi
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: test    # https://www.linkedin.com/in/{your url slug} 
+  linkedin: https://www.linkedin.com/in/jack-thomas-ryan/    # https://www.linkedin.com/in/{your url slug} 
   # github: leea12    # https://github.com/{your url slug} 
   # stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
-  medium:            # https://medium.com/@{your url slug} 
-  x-twitter:   # https://x.com/{your url slug} 
-  threads:            # https://threads.net/@{your url slug} 
-  instragram:       # https://instagram.com/{your url slug} 
-  youtube:           # https://youtube.com/@{your url slug} 
-  discord:            # https://discord.com/users/{your url slug} 
-  bluesky:           # https://bsky.app/profile/{your url slug} 
+  # medium:            # https://medium.com/@{your url slug} 
+  # x-twitter:   # https://x.com/{your url slug} 
+  # threads:            # https://threads.net/@{your url slug} 
+  # instragram:       # https://instagram.com/{your url slug} 
+  # youtube:           # https://youtube.com/@{your url slug} 
+  # discord:            # https://discord.com/users/{your url slug} 
+  # bluesky:           # https://bsky.app/profile/{your url slug} 
   
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
@@ -49,30 +49,18 @@ skills:
     tools:
     - Onshape
     - Solidworks
-    - Creo
-    - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
-    - Siemens NX
-    - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
-  - category: Prototyping
+    - AUTODESK AutoCAD
+  - category: Languages 
     tools:
-    - SLA
-    - CNC
-    - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
-    - Laser Cutting
-    - Water Jet Cutting
-    - Arduino / Raspberry Pi
-    - Breadboarding for circuit testing
-  - category: Design Standards / Practices
+    -C++
+      -Arduino
+    -MATLAB
+    -Maple
+  - category: Analysis & Simulation
     tools:
-    - GD&T ASME Y14
-    - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
+    -ANSYS Fluent CFD
+    -ABAQUS FEA
+    -MATLAB Simulink
   - category: PCB Design
     tools:
     - Altium Designer
