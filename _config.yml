@@ -52,15 +52,15 @@ skills:
     - AUTODESK AutoCAD
   - category: Languages 
     tools:
-    -C++
-      -Arduino
-    -MATLAB
-    -Maple
+    - C++
+    - Arduino
+    - MATLAB
+    - Maple
   - category: Analysis & Simulation
     tools:
-    -ANSYS Fluent CFD
-    -ABAQUS FEA
-    -MATLAB Simulink
+    - ANSYS Fluent CFD
+    - ABAQUS FEA
+    - MATLAB Simulink
   - category: PCB Design
     tools:
     - Altium Designer
