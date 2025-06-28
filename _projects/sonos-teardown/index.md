@@ -8,7 +8,7 @@ skills:
   - Cost engineering
   - Materials Engineering
 
-main-image: /sonos.png
+main-image: /MEDesignPic.png
 ---
 
 
