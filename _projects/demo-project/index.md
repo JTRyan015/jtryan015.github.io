@@ -14,7 +14,7 @@ main-image: /JPImage.png
 ---
 
 # Detailed Project Report:  
-<a href="https://drive.google.com/file/d/1cFEnBFqpZG8d3XzBDLItg33COHCtCQBF/view" target="_blank">TurboJet_Report</a>
+<a href="https://drive.google.com/file/d/1_vNzuWCOX3IWpWO28FD_qWB6wGH_R0PK/view" target="_blank">TurboJet_Report</a>
 
 
 
