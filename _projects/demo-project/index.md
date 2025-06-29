@@ -13,10 +13,10 @@ skills:
 main-image: /JPImage.png
 ---
 
----
-# Header 1 
-Detailed Project Report:
-report-url:https://drive.google.com/file/d/1cFEnBFqpZG8d3XzBDLItg33COHCtCQBF/view
+# Header 1
+
+**Detailed Project Report:**  
+[TurboJet_Report](https://drive.google.com/file/d/1cFEnBFqpZG8d3XzBDLItg33COHCtCQBF/view)
 
 
 ## Embedding images 
