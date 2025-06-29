@@ -16,7 +16,8 @@ main-image: /JPImage.png
 # Header 1
 
 **Detailed Project Report:**  
-[TurboJet_Report](https://drive.google.com/file/d/1cFEnBFqpZG8d3XzBDLItg33COHCtCQBF/view)
+<a href="https://drive.google.com/file/d/1cFEnBFqpZG8d3XzBDLItg33COHCtCQBF/view" target="_blank">TurboJet_Report</a>
+
 
 
 ## Embedding images 
