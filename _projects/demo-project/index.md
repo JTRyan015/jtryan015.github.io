@@ -13,9 +13,7 @@ skills:
 main-image: /JPImage.png
 ---
 
-# Header 1
-
-**Detailed Project Report:**  
+# Detailed Project Report:  
 <a href="https://drive.google.com/file/d/1cFEnBFqpZG8d3XzBDLItg33COHCtCQBF/view" target="_blank">TurboJet_Report</a>
 
 
