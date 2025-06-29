@@ -13,7 +13,6 @@ main-image: /bench.png
 
 ---
 
-#  Detailed Project Report:
-report-url:https://drive.google.com/file/d/1NUBePzYpRUGrOIJI42gjPNBfMW5zEbh2/view
-
+#  Detailed Project Report:  
+<a href=":https://drive.google.com/file/d/1NUBePzYpRUGrOIJI42gjPNBfMW5zEbh2/view" target="_blank">Bench press Safety Mehcanism Report</a>
 --- 
