@@ -10,7 +10,7 @@ skills:
   - Chemistry
   - Thermal Analysis
 
-main-image: JPImage.jpg
+main-image: /JPImage.jpg
 ---
 
 ---
