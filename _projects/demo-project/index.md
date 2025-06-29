@@ -15,11 +15,8 @@ main-image: /project2.jpg
 
 ---
 # Header 1 
-Used for the title (already generated automatically at the top)
-## Header 2  
-Use this for the header of each section
-### Header 3 
-Use this to have subsection if needed
+Detailed Project Report:
+     ADD GOOGLE DRIVE LINK
 
 
 ## Embedding images 
