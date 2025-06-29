@@ -16,7 +16,7 @@ main-image: /JPImage.png
 ---
 # Header 1 
 Detailed Project Report:
-     ADD GOOGLE DRIVE LINK
+     https://drive.google.com/file/d/1cFEnBFqpZG8d3XzBDLItg33COHCtCQBF/view
 
 
 ## Embedding images 
