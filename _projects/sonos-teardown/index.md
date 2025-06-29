@@ -11,8 +11,10 @@ skills:
 main-image: /bench.png
 ---
 
-##Header: Project Report: 
-https://drive.google.com/file/d/1NUBePzYpRUGrOIJI42gjPNBfMW5zEbh2/view
+---
 
+# Header 1 
+Detailed Project Report:
+     https://drive.google.com/file/d/1NUBePzYpRUGrOIJI42gjPNBfMW5zEbh2/view
 
-
+--- 
