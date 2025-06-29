@@ -13,8 +13,7 @@ main-image: /bench.png
 
 ---
 
-# Header 1 
-Detailed Project Report:
+#  Detailed Project Report:
 report-url:https://drive.google.com/file/d/1NUBePzYpRUGrOIJI42gjPNBfMW5zEbh2/view
 
 --- 
