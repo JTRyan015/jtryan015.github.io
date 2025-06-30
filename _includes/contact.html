@@ -1,5 +1,5 @@
 <!-- SECTION 4: Contact-->
-<section id="contact" class= "contact-section">
+<!-- <section id="contact" class= "contact-section">
     <h2>Contact</h2>
 
     <div class="group">
@@ -17,4 +17,27 @@
             <button type="submit">Send Message</button>
         </form>
     </div>
-  </section>
+  </section> -->
+
+  <!-- SECTION 4: Contact-->
+<section id="contact" class="contact-section">
+  <h2>Contact</h2>
+
+  <div class="group">
+    <form action="https://formspree.io/f/yourFormIDHere" method="POST">
+      <label for="name">Name</label>
+      <input type="text" id="name" name="name" required>
+
+      <label for="email">Email</label>
+      <input type="email" id="email" name="email" required>
+
+      <label for="message">Message</label>
+      <textarea id="message" name="message" cols="30" rows="10" required></textarea>
+
+      <button type="submit">Send Message</button>
+    </form>
+  </div>
+</section>
+
+<input type="hidden" name="_redirect" value="https://yourdomain.com/thank-you.html">
+
