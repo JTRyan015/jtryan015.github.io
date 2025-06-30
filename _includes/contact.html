@@ -19,12 +19,11 @@
     </div>
   </section> -->
 
-  <!-- SECTION 4: Contact-->
 <section id="contact" class="contact-section">
   <h2>Contact</h2>
 
   <div class="group">
-    <form action="https://formspree.io/f/yourFormIDHere" method="POST">
+    <form action="https://formspree.io/f/YOUR_FORM_ID_HERE" method="POST">
       <label for="name">Name</label>
       <input type="text" id="name" name="name" required>
 
@@ -35,9 +34,11 @@
       <textarea id="message" name="message" cols="30" rows="10" required></textarea>
 
       <button type="submit">Send Message</button>
+      <input type="hidden" name="_redirect" value="https://yourdomain.com/thank-you.html">
     </form>
   </div>
 </section>
 
-<input type="hidden" name="_redirect" value="https://yourdomain.com/thank-you.html">
+
+
 
