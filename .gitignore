@@ -1,0 +1,7 @@
+# Jekyll build output and caches (regenerated automatically; not needed in the repo)
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+.bundle/
+vendor/
