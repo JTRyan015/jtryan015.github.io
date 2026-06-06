@@ -15,7 +15,7 @@ title: Jack Ryan's Portfolio # This is what shows up in the tab of the browser
 name: Jack Ryan
 headline: Mechanical Engineer | Northeastern University 2026 Graduate
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  I'm a Mechanical Engineer at a Robotics Company and a 2026 graduate of Northeastern University's Mechanical Engineering program. This portfolio highlights my academic and professional work. Feel free to contact me to connect or learn more.
+  I'm a Mechanical Engineer at aRobotics Company and a 2026 graduate of Northeastern University's Mechanical Engineering program. This portfolio highlights my academic and professional work. Feel free to contact me to connect or learn more.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/Photo_port.png
